@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>151238879768-km11s65a26qamdelpotg2qlt6em5g349.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.151238879768-km11s65a26qamdelpotg2qlt6em5g349</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAN7NqHpw1Sn-lErWavNEQSnFr9NEQu1IQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>151238879768</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.testmulakat</string>
+	<key>PROJECT_ID</key>
+	<string>testmulakat</string>
+	<key>STORAGE_BUCKET</key>
+	<string>testmulakat.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:151238879768:ios:554097a8dc962e07cb716d</string>
+</dict>
+</plist>

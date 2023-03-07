@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "151238879768",
+    "project_id": "testmulakat",
+    "storage_bucket": "testmulakat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151238879768:android:009ee24bd519d150cb716d",
+        "android_client_info": {
+          "package_name": "com.example.testmulakat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151238879768-s0g7jjidt7dcgbjkjj7vkqun1icl871u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkCCQRZvYlhAQIkiLw4hGHyaONLjQgD8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151238879768-s0g7jjidt7dcgbjkjj7vkqun1icl871u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
