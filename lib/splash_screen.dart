@@ -19,6 +19,12 @@ class _SplashScreenState extends State<SplashScreen> {
             () =>
             Navigator.of(context).pushReplacement(MaterialPageRoute(
                 builder: (BuildContext context) => LoginPage())));*/
+    Future.delayed(Duration(seconds: 3), () {
+      Navigator.pushReplacement(
+        context,
+        MaterialPageRoute(builder: (context) => LoginPage()),
+      );
+    });
     return Scaffold(
       body: Splash(baslik: 'FoodNinja',altbaslik: 'Deliever Favorite Food',)
     );
